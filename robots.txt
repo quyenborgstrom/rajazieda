@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chaerieho.minddust.com/sitemap.xml
